@@ -25,7 +25,7 @@ Este projeto é uma recriação da página inicial do Instagram utilizando apena
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/instagram-clone.git
+   git clone https://github.com/henriquedevop/Henrigram-project.git
 
 2. Navegue até a pasta do projeto::
    ```bash
